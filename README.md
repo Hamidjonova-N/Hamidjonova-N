@@ -19,6 +19,14 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
+## Latest projects
+
+| Preview | Description |
+|---|---|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Choose your interest page preview" width="250"/><br>[Layout source](https://dev.to/nikhil27b/custom-checkbox-with-html-css-4a37) | **Choose your interest** <br>A website that chooses its interests <br><br> <a href="https://github.com/Hamidjonova-N/choose-your-interest-checkbox">🧾 Repo</a> - <a href="https://shn-choose-your-interest.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 1 soat <br><br> **Specific aspects:** Give checkbox a unique style |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank preview" width="250"/><br>[Layout source](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | **Easybank landing page** <br>Onlayn banking uchun mobil ilovaning promo sahifasi <br><br> <a href="https://github.com/frontendtester/easybank">🧾 Repo</a> - <a href="https://mjb-easybank.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 2 soat<br><br> **Specific aspects:** Hero qismidagi rasmlar joylashuvi |
+**<a href="https://t.me/portfolio_hamidjonova" target="_blank">💼 All projects</a>**
+
 ## GitHub statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidjonova-n&show_icons=true&locale=en&layout=compact" alt="hamidjonova-n" /></p>
